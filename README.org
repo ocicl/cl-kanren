@@ -1,0 +1,10 @@
+* cl-kanren
+
+
+
+|---------+-------------------------------------------|
+| source  | git:https://notabug.org/cage/cl-kanren.git   |
+| commit  |   |
+| systems | cl-kanren |
+|---------+-------------------------------------------|
+
