@@ -4,6 +4,6 @@
 
 |---------+--------------------------------------------|
 | source  | git:https://notabug.org/cage/cl-kanren.git |
-| commit  | f346505                                    |
+| commit  | bd3254f                                    |
 | systems | cl-kanren                                  |
 |---------+--------------------------------------------|
