@@ -1,9 +1,9 @@
 * cl-kanren
 
+A library for embed logic programming in your common lisp software.
 
-
-|---------+--------------------------------------------|
-| source  | git:https://notabug.org/cage/cl-kanren.git |
-| commit  | bd3254f                                    |
-| systems | cl-kanren                                  |
-|---------+--------------------------------------------|
+|---------+---------------------------------------------|
+| source  | git:https://codeberg.org/cage/cl-kanren.git |
+| commit  | ad40ba1                                     |
+| systems | cl-kanren                                   |
+|---------+---------------------------------------------|
