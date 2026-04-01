@@ -7,3 +7,4 @@ A library for embed logic programming in your common lisp software.
 | commit  | ad40ba1                                     |
 | systems | cl-kanren                                   |
 |---------+---------------------------------------------|
+ 
